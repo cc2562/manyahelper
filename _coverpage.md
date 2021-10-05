@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+
 
 # ManYaMoe <small>Minecraft服务器</small>
 
@@ -10,5 +10,4 @@
 - 加入服务器
 - 命令速查
 
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#欢迎)
