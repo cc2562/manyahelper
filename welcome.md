@@ -48,4 +48,4 @@ ManYaMoe（漫鸭萌）是一个Minecraft基岩版服务器，使用BDS作为服
 每人 每个季度仅有一次参加考核的机会，请务必认真作答 
 大提示：考核得分没有及格线这类的说法 请以考核官最后的决定为准！
 点击下面的链接进入考核
-(https://wj.qq.com/s2/8759296/bb35/)[https://wj.qq.com/s2/8759296/bb35/]
+https://www.wenjuan.design/s/UZBZJvteuy/#
